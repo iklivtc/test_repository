@@ -1,2 +1,4 @@
 Hello
 Add new line for test
+Test GUI
+Add new line for test git gui
